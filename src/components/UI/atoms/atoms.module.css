@@ -1,0 +1,9 @@
+.filterField{
+    padding: 10px;
+}
+.filterButtons{
+    cursor: pointer;
+}
+.normal{
+    font-size: 16px;
+}

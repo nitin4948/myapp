@@ -1,0 +1,13 @@
+
+
+.listWrapper{
+    padding: 20px;
+    height: calc(100vh - 170px);
+    overflow: auto;  
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
